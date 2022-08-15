@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashutosh Soni</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
-
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h4 align="center">Loves Backend More</h4>
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **PHP,Go,Java**
