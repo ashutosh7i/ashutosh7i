@@ -3,13 +3,13 @@
 <h4 align="center">Loves Backend More🤫😂</h4>
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
-- 🌱 I’m currently learning **PHP,Go,Java**
+- 🌱 I’m currently learning **PHP,Go,Javascript**
 
-- 👨‍💻 All of my projects are available at [ashutosh7i.me](https://ashutosh7i.me)
+- 👨‍💻 All of my projects are available at [ashutosh7i.me](https://github.com/ashutosh7i)
 
 - 📝 My Youtube Channel [youtube.com/ashutosh7i](https://www.youtube.com/ashutosh7i)
 
-- 💬 Ask me about **Linux,Bash,PHP**
+- 💬 Ask me about **Computers,IOT,Linux,Cloud,PHP,Networking&Sarcasm**
 
 - 📫 How to reach me **ashtechindia130@gmail.com**
 
