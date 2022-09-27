@@ -1,6 +1,7 @@
 
 
 
+
 <h1 align="center">Hi 👋, I'm Aashutosh Soni</h1>
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 <h4 align="center">(>Loves Backend More🤫😂<)</h4>
@@ -46,12 +47,9 @@
 <p>
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="200" width="400" />
-</a>&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp
 <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&" height="200" width="510" /></a>
 </p>
-
-<P ALIGN=left><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh7i&repo=passwordman" /> <a>  &nbsp &nbsp&nbsp <a/> <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh7i&repo=Event_Notification_System-GSDC-AITR" /> </P>
-
 <h3 align="left">Ashutosh7i's Holopin board:-</h3>
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
 
