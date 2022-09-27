@@ -31,7 +31,7 @@
 <a href="https://stackoverflow.com/users/14732606/ashutosh7i" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png?20190716190036" alt="ashutosh soni" height="40" width="40" /></a>
 <a href="https://g.dev/ashutosh7i" target="blank"><img align="center" src="https://developers.google.com/site-assets/developers-logo-color.svg" alt="ashutosh soni" height="40" width="40" /></a>
 <a href="https://instagram.com/ashutosh_7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_7i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashutosh7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashutosh7i" height="30" width="40" /></a>
+<a href="https://www.wakatime.com/@ashutosh7i" target="blank"><img align="center" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/wakatime.png?raw=true" alt="ashutosh7i" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/ashutoshsoni130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutoshsoni130" height="30" width="40" /></a>
 <a href="https://replit.com/@Ashutosh7i" target="blank"><img align="center" src="https://replit.com/public/icons/apple-icon-180.png" alt="ashutoshsoni130" height="30" width="30" /></a>
 </p>
