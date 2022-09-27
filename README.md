@@ -47,7 +47,7 @@
 <p>
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="150" width="300" />
-</a>&nbsp
+</a>&nbsp&nbsp&nbsp
 <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&" height="150" width="410" /></a>
 </p>
 <h3 align="left">Ashutosh7i's Holopin board:-</h3>
