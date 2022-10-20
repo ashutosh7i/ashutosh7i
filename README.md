@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/hello.gif" align="center" style="width: 100%" />
+<img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/ifYouStoleThisIdeaThenItWillCurseYouLOL.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Aashutosh Soni</h1>
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
