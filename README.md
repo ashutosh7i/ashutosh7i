@@ -76,5 +76,5 @@
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
 
 ### 😂 Random Tech Memes:
-<p><img align="center" src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png" alt="Loading..."  height="300"/></p>
+<p><img align="center" src="" alt="Loading..."  height="300"/></p>
 
