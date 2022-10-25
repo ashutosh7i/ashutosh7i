@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/ifYouStoleThisIdeaThenItWillCurseYouLOL.gif" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Aashutosh Soni <img src="https://media.tenor.com/uIrl4akLFjcAAAAd/doge-dog.gif" height="37" ></h1>
+<h1 align="center">Hi 👋, I'm Aashutosh Soni <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 <h4 align="center">(>Loves Backend More🤫😂<)</h4>
  
@@ -76,5 +76,5 @@
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
 
 ### 😂 Random Tech Memes:
-<p><img align="center" src="https://ash-memeapi.ashutosh7i.repl.co/one.png" alt="Loading..."  height="300"/></p>
+<p><img align="center" src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png" alt="Loading..."  height="300"/></p>
 
