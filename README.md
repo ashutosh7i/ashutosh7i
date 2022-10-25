@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/ifYouStoleThisIdeaThenItWillCurseYouLOL.gif" align="center" style="width: 100%" />
 </div>  
@@ -76,5 +73,5 @@
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
 
 ### 😂 Random Tech Memes:
-<p><img align="center" src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png" alt="Loading..."  height="300"/></p>
+<img src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png/" width="350px"/>
 
