@@ -63,11 +63,11 @@
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="170" width="320" />
 </a>&nbsp&nbsp&nbsp
-<a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&hide_title=false&hide_border=true&langs_count=6&text_color=2c3333" height="170" width="370" /></a>
+<a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&hide_title=false&title=TimeSpent&hide_border=true&langs_count=5&text_color=2c3333" height="170" width="370" /></a>
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashutosh7i&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏆 Ashutosh7i's Holopin board:-
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
