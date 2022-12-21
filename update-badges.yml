@@ -1,0 +1,21 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: ashutosh7i/ashutosh7i # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "My commit message to update credly badges" # optional
+          CREDLY_USER: <aashutosh-soni.0367f214> # optional, but default will use the same from github
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: the resolution to the badges images # optional, 110x110 default
+          NUMBER_LAST_BADGES: the maximum last badges to show # optional, will show the 48 in the first page
