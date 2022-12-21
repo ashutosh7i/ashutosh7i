@@ -75,3 +75,5 @@
 ### 😂 Random Tech Memes:
 <img src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png/" width="350px"/>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
