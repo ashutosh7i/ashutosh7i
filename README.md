@@ -66,15 +66,21 @@
 <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&hide_title=false&title=TimeSpent&hide_border=true&langs_count=5&text_color=2c3333" height="170" width="370" /></a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-## 🏆 Ashutosh7i's Holopin board:-
+## 🏆 Ashutosh7i's Holopin board:
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
 
+ 
+## 🚀 Badges :
+ <p><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="247" width="150" alt="CCNACert" /></p>
+
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="" height="" width="" alt=""/></p>
+
+<p>
+ &nbsp&nbsp
 ### 😂 Random Tech Memes:
 <img src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png/" width="350px"/>
 
-<p><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="150" width="300" alt="CCNACert" /></p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="" height="" width="" alt=""/></p>
-<p>
+
