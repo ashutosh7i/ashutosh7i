@@ -75,5 +75,6 @@
 ### 😂 Random Tech Memes:
 <img src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png/" width="350px"/>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<p><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="150" width="300" alt="CCNACert" /></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="" height="" width="" alt=""/></p>
+<p>
