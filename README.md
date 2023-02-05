@@ -63,7 +63,7 @@
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="170" width="320" />
 </a>&nbsp&nbsp&nbsp
-<a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&hide_title=false&title=TimeSpent&hide_border=true&langs_count=5&text_color=2c3333" height="170" width="370" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&hide_title=false&title=TimeSpent&hide_border=true&langs_count=5&text_color=2c3333" height="170" width="370" /></a> -->
 </p>
 
 ## 🏆 GitHub Trophies:
@@ -74,13 +74,10 @@
 
  
 ## 🚀 Badges :
- <p><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="247" width="150" alt="CCNACert" /></p>
+ <p><a href="https://www.credly.com/badges/6c097391-b1f1-4aee-bb6e-b2e34fcecf6b/public_url" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="247" width="150" alt="CCNACert" /></a></p>
 
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="" height="" width="" alt=""/></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://api.badgr.io/public/assertions/KFOFKUKdRjeDb5HPcLQCZg" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/Postman_Canvas.png" height="247" width="570" alt="PostmanBadge"/></a></p>
 
 <p>
  &nbsp&nbsp
-### 😂 Random Tech Memes:
-<img src="https://ashmemeapi.ashutosh7i.repl.co/ashmeme.png/" width="350px"/>
-
 
