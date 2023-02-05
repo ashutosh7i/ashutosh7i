@@ -72,12 +72,12 @@
 ## 🏆 Ashutosh7i's Holopin board:
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
 
- 
 ## 🚀 Badges :
- <p><a href="https://www.credly.com/badges/6c097391-b1f1-4aee-bb6e-b2e34fcecf6b/public_url" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="247" width="150" alt="CCNACert" /></a></p>
+ <div align="center">
+ <a href="https://www.credly.com/badges/6c097391-b1f1-4aee-bb6e-b2e34fcecf6b/public_url" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="147" width="100" alt="CCNACert" /></a>
 
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://api.badgr.io/public/assertions/KFOFKUKdRjeDb5HPcLQCZg" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/Postman_Canvas.png" height="247" width="570" alt="PostmanBadge"/></a></p>
+  <a href="https://api.badgr.io/public/assertions/KFOFKUKdRjeDb5HPcLQCZg" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/Postman_Canvas.png" height="147" width="450" alt="PostmanBadge"/></a>
 
-<p>
- &nbsp&nbsp
+<a href="https://learn.microsoft.com/en-us/training/achievements/course.az-900t00.badge?username=Ashutosh7i" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/AZ900_Microsoft.png"  height="147" width="180" alt="CCNACert" /></a>
 
+</div>
