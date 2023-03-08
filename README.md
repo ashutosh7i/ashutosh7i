@@ -1,30 +1,31 @@
 <div align="center">
+<div align="center">
 <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/ifYouStoleThisIdeaThenItWillCurseYouLOL.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Aashutosh Soni <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 <h4 align="center">(>Loves Backend More🤫😂<)</h4>
  
-- 🔭 I’m currently working on- **Data Structures & Algorithms.**
+ 🔭 I’m currently working on- **Data Structures & Algorithms.**
 
-- 👨‍💻 Language Profiency - **PHP,C++.**
+ 👨‍💻 Language Profiency - **PHP,C++.**
 
-- 🌱 I’m currently learning **Java,Javascript,Japanese.**
+ 🌱 I’m currently learning **Java,Javascript,Japanese.**
 
-- 👨‍💻 All of my projects are available at [Devfolio/@ashutosh7i](https://devfolio.co/@Ashutosh7i/)
+ 👨‍💻 All of my projects are available at [Devfolio/@ashutosh7i](https://devfolio.co/@Ashutosh7i/)
 
-- 📝 My Youtube Channel [youtube.com/ashutosh7i](https://www.youtube.com/ashutosh7i)
+ 📝 My Youtube Channel [youtube.com/ashutosh7i](https://www.youtube.com/ashutosh7i)
 
-- 💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
+ 💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
 
-- 📫 Reach Out here- **Ashtechindia130@gmail.com**
+ 📫 Reach Out here- **Ashtechindia130@gmail.com**
 
-- 🌐 More here [Ashutosh7i.me](https://ashutosh7i.me)
+ 🌐 More here [Ashutosh7i.me](https://ashutosh7i.github.io)
 
-- ⚡ Fun fact **Actually,the entire universe does revolves around me!😂**
+ ⚡ Fun fact **Actually,the entire universe does revolves around me!😂**
 
 ## 🌐 Connect with me:
-<p align="left">
+<p align="centre">
 <a href="https://linkedin.com/in/ashutosh soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh soni" height="30" width="40" /></a>
 <a href="https://devfolio.co/@ashutosh7i" target="blank"><img align="center" src="https://github.com/devfolioco/brand-assets/blob/main/Devfolio%20Square/Logo-Square%20centred.png?raw=true" alt="ashutosh soni" height="35" width="35" /></a>                        
 <a href="https://stackoverflow.com/users/14732606/ashutosh7i" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png?20190716190036" alt="ashutosh soni" height="40" width="40" /></a>
@@ -57,16 +58,48 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)... and more😂
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh7i&show_icons=true&locale=en&layout=compact"  height="150" width="300" alt="ashutosh7i" /></p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh7i&show_icons=true&locale=en&&hide_border=false&include_all_commits=false&count_private=true&layout=compact,#2c3333,clack,blue" height="150" width="370" alt="ashutosh7i"/></p>
-<p>
-<a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="170" width="320" />
-</a>&nbsp&nbsp&nbsp
-<img align="center" height="300" width="550"
-  src="https://github.com/ashutosh7i/ashutosh7i/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
+
+ <div align="center">
+
+<!-- github most used lang -->
+
+<img width=230 src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh7i&show_icons=true&locale=en&layout=compact" alt="montasim" />
+
+<!-- github most used lang end -->
+
+ <!-- github streak start -->
+
+<img width=320 src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact"  />
+
+<!-- github streak end -->
+  
+
+</div>
+
+
+
+<div align="center">
+
+
+<!-- github stats start -->
+
+<img width=300 src="https://github-readme-stats.vercel.app/api?username=ashutosh7i&show_icons=true&locale=en&&hide_border=false&include_all_commits=false&count_private=true&layout=compact,#2c3333,clack,blue"  />
+
+<!-- github stats end -->
+
+<!-- wakatime weekly activity start -->
+
+<a href="https://wakatime.com/@ashutosh7i" title="Data update every midnight">
+
+<img width=330 src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=ashutosh7i&layout=compact&langs_count=7&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+
+</a>
+
+<!-- wakatime weekly activity end -->
+
+</div>
+ 
+ 
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
@@ -83,3 +116,5 @@
 <a href="https://learn.microsoft.com/en-us/training/achievements/course.az-900t00.badge?username=Ashutosh7i" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/AZ900_Microsoft.png"  height="147" width="180" alt="CCNACert" /></a>
 
 </div>
+ </div>
+ </div>
