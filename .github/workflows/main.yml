@@ -1,6 +1,6 @@
 name: WakaTime status update
 
-on:
+on: [workflow_dispatch]
   push:
     branches: [master]
   schedule:
