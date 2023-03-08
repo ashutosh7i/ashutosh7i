@@ -63,7 +63,10 @@
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="170" width="320" />
 </a>&nbsp&nbsp&nbsp
-<!-- <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutosh7i&hide_title=false&title=TimeSpent&hide_border=true&langs_count=5&text_color=2c3333" height="170" width="370" /></a> -->
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
 </p>
 
 ## 🏆 GitHub Trophies:
