@@ -63,7 +63,7 @@
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact" height="170" width="320" />
 </a>&nbsp&nbsp&nbsp
-<img
+<img align="center" height="300" width="550"
   src="https://github.com/ashutosh7i/ashutosh7i/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
