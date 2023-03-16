@@ -26,7 +26,7 @@
 
 ## 🌐 Connect with me:
 <p align="centre">
-<a href="https://linkedin.com/in/ashutosh soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh soni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh soni" height="30" width="40" /></a>
 <a href="https://devfolio.co/@ashutosh7i" target="blank"><img align="center" src="https://github.com/devfolioco/brand-assets/blob/main/Devfolio%20Square/Logo-Square%20centred.png?raw=true" alt="ashutosh soni" height="35" width="35" /></a>                        
 <a href="https://stackoverflow.com/users/14732606/ashutosh7i" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1024px-Stack_Overflow_icon.svg.png?20190716190036" alt="ashutosh soni" height="40" width="40" /></a>
 <a href="https://g.dev/ashutosh7i" target="blank"><img align="center" src="https://developers.google.com/site-assets/developers-logo-color.svg" alt="ashutosh soni" height="40" width="40" /></a>
