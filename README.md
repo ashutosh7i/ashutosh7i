@@ -19,7 +19,7 @@
 
  💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
 
- 📫 Reach Out here- **Ashtechindia130@gmail.com**
+ 📫 Reach Out here- **Aashutossh7i@gmail.com**
 
  🌐 More here [Ashutosh7i.github.io](https://ashutosh7i.github.io)
 
