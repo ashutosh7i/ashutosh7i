@@ -7,11 +7,11 @@
 <h2 align="center">A passionate Full-Stack Developer from India</h2>
 <h4 align="center">(>Loves Backend More🤫😂<)</h4>
  
- 🔭 I’m currently working on- **Data Structures & Algorithms.**
+ 🔭 I’m currently working on- **MERN🚀 & Data Structures & Algorithms.**
 
  👨‍💻 Language Profiency - **JavaScript,PHP,C++.**
 
- 🌱 I’m currently learning **Java,Javascript🚀,Japanese.**
+ 🌱 I’m currently learning **Java,Javascript🚀,Japanese😂.**
 
  👨‍💻 All of my projects are available at [Devfolio/@ashutosh7i](https://devfolio.co/@Ashutosh7i/)
 
