@@ -20,9 +20,9 @@
 
  💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
 
- 📫 Reach Out here- **Aashutossh7i@gmail.com**
+ 📫 Reach Out here- **i@ashutosh7i.dev**
 
- 🌐 More here [Ashutosh7i.github.io](https://ashutosh7i.github.io)
+ 🌐 More here [Ashutosh7i.Dev](https://ashutosh7i.dev)
 
  ⚡ Fun fact **Actually,the entire universe does revolves around me!😂**
 
@@ -37,6 +37,7 @@
 <a href="https://www.hackerrank.com/ashutoshsoni130" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ashutoshsoni130" height="35" width="35" /></a>
 <a href="https://replit.com/@Ashutosh7i" target="blank"><img align="center" src="https://replit.com/public/icons/apple-icon-180.png" alt="ashutoshsoni130" height="35" width="35" /></a>
 <a href="https://dev.to/ashutosh7i" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="ashutosh7i" height="35" width="35" /></a>
+ <a href="https://blog.ashutosh7i.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="ashutosh7i" height="35" width="35" /></a>
 <a href="https://twitter.com/ashutosh7i" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="ashutosh7i" height="35" width="35" /></a>
 </p>
 
