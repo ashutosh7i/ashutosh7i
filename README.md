@@ -93,6 +93,10 @@
 -->
 <!-- wakatime weekly activity end -->
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
  
  
