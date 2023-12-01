@@ -72,7 +72,7 @@
 
 </div>
 
-
+<br>
 
 <div align="center">
 
@@ -171,11 +171,16 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
  
 
 ## 🏆 GitHub Trophies:
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)"/></p>
+
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+-->
 
 ## 🏆 Ashutosh7i's Holopin board:
+ <div align="center">
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
-
+ </div>
 <!--
 ## 🚀 Badges :
  <div align="center">
