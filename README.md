@@ -34,7 +34,7 @@
 <a href="https://g.dev/ashutosh7i" target="blank"><img align="center" src="https://developers.google.com/site-assets/developers-logo-color.svg" alt="ashutosh soni" height="40" width="40" /></a>
 <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/d00dfefc-7712-4c65-8dc9-52897e10602c" target="blank"><img align="center" src="https://mvp.microsoft.com/Assets/Badge/LevelAlpha160x143.png" alt="ashutosh_7i" height="45" width="45" /></a>
 <a href="https://www.wakatime.com/@ashutosh7i" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" alt="ashutosh7i" height="35" width="35" /></a>
-<a href="https://www.hackerrank.com/ashutoshsoni130" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="ashutoshsoni130" height="35" width="35" /></a>
+<a href="https://devpost.com/ashutosh7i" target="blank"><img align="center" src="https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg" alt="ashutoshsoni130" height="35" width="35" /></a>
 <a href="https://replit.com/@Ashutosh7i" target="blank"><img align="center" src="https://replit.com/public/icons/apple-icon-180.png" alt="ashutoshsoni130" height="35" width="35" /></a>
  <a href="https://blog.ashutosh7i.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="ashutosh7i" height="35" width="35" /></a>
 <a href="https://twitter.com/ashutosh7i" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="ashutosh7i" height="35" width="35" /></a>
