@@ -95,7 +95,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -126,16 +126,22 @@ Sunday                   162 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.34 % 
+EJS                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HTML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Signup                   1 hr 54 mins        █████████████████████░░░░   85.11 % 
+AshVMExport              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+signup page              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
