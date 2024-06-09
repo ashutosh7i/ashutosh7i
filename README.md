@@ -4,13 +4,13 @@
 <div align="center">
 <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/ifYouStoleThisIdeaThenItWillCurseYouLOL.gif" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Aashutosh Soni <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
-<h2 align="center">A passionate Full-Stack Developer from India</h2>
+<h1 align="center">Hi 👋, I'm Aashutosh <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
+<h2 align="center">A passionate Full-Stack Software Engineer from India</h2>
 <h4 align="center">(>Loves Backend More🤫😂<)</h4>
  
- 🔭 I’m currently working on- **MERN🚀 & Data Structures & Algorithms.**
+ 🔭 I’m currently working on- **MERN🚀, DSA and Nextjs.**
 
- 👨‍💻 Language Profiency - **JavaScript,PHP,C++.**
+ 👨‍💻 Language Profiency - **JavaScript,TypeScript,PHP,C++.**
 
  🌱 I’m currently learning **Advance Fullstack Development🚀 & NextJs** 
 
@@ -22,7 +22,7 @@
 
  📫 Reach Out here- **work@ashutosh7i.dev**
 
- 🌐 More here [Ashutosh7i.Dev](https://ashutosh7i.dev)
+ 🌐 My Portfolio [Ashutosh7i.Dev](https://ashutosh7i.dev)
 
  ⚡ Fun fact **Actually,the entire universe does revolves around me!😂**
 
@@ -157,14 +157,16 @@ CSS                      3 repos             █░░░░░░░░░░�
 ```
 
 
-
+<!--
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ashutosh7i/ashutosh7i/main/assets/bar_graph.png)
-
+-->
 
 <!--END_SECTION:waka-->
+<!--
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+-->
 </div>
  
  
