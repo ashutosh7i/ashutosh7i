@@ -178,8 +178,9 @@ CSS                      3 repos             █░░░░░░░░░░�
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 -->
 </div>
+ Profile Visitors: 
  
- 
+ ![Visitors-](https://profile-counter.glitch.me/ashutosh7i/count.svg)
 
 ## 🏆 GitHub Trophies:
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)"/></p>
