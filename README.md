@@ -6,7 +6,7 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Aashutosh <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
 <h2 align="center">A passionate Full-Stack Software Engineer from India</h2>
-<h4 align="center">(>Loves Backend More🤫😂<)</h4>
+<h4 align="center">(> i code for fun 🤗<)</h4>
  
  🔭 I’m currently working on- **MERN🚀, DSA and Nextjs.**
 
@@ -20,11 +20,11 @@
 
  💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
 
- 📫 Reach Out here- **work@ashutosh7i.dev**
+ 📫 Reach me out- **work@ashutosh7i.dev**
 
- 🌐 My Portfolio [Ashutosh7i.Dev](https://ashutosh7i.dev)
-
- ⚡ Fun fact **Actually,the entire universe does revolves around me!😂**
+ ⚡  more- [links.ashutosh7i.dev](https://links.ashutosh7i.dev)
+ 
+ 🌐 My Portfolio [ashutosh7i.dev](https://ashutosh7i.dev)
 
 ## 🌐 Connect with me:
 <p align="centre">
