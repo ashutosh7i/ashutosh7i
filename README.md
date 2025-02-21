@@ -7,24 +7,24 @@
 <h1 align="center">Hi 👋, I'm Aashutosh <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
 <h2 align="center">A passionate Full-Stack Software Engineer from India</h2>
 <h4 align="center">(> i code for fun 🤗<)</h4>
- 
- 🔭 I’m currently working on- **MERN🚀, DSA and Nextjs.**
 
- 👨‍💻 Language Profiency - **JavaScript,TypeScript,PHP,C++.**
+🔭 I’m currently working on- **MERN🚀, DSA and Nextjs.**
 
- 🌱 I’m currently learning **Advance Fullstack Development🚀 & NextJs** 
+👨‍💻 Language Profiency - **JavaScript,TypeScript,PHP,C++.**
 
- 👨‍💻 All of my projects are available at [Devfolio/@ashutosh7i](https://devfolio.co/@Ashutosh7i/)
+🌱 I’m currently learning **Advance Fullstack Development🚀 & NextJs**
 
- 📝 My Youtube Channel [youtube.com/ashutosh7i](https://www.youtube.com/ashutosh7i)
+👨‍💻 All of my projects are available at [Devfolio/@ashutosh7i](https://devfolio.co/@Ashutosh7i/)
 
- 💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
+📝 My Youtube Channel [youtube.com/ashutosh7i](https://www.youtube.com/ashutosh7i)
 
- 📫 Reach me out- **work@ashutosh7i.dev**
+💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
 
- ⚡  more- [links.ashutosh7i.dev](https://links.ashutosh7i.dev)
- 
- 🌐 My Portfolio [ashutosh7i.dev](https://ashutosh7i.dev)
+📫 Reach me out- **work@ashutosh7i.dev**
+
+⚡  more- [links.ashutosh7i.dev](https://links.ashutosh7i.dev)
+
+🌐 My Portfolio [ashutosh7i.dev](https://ashutosh7i.dev)
 
 ## 🌐 Connect with me:
 <p align="centre">
@@ -49,8 +49,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ashutosh7i">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,php,mysql,postgres,mongodb,arduino,linux,bash,git,github,react,express,nodejs,nextjs,flutter,azure,gcp,nginx,docker,vscode,postman,powershell,ipfs,githubactions,raspberrypi&theme=dark&perline=10" />
-  </a>
+   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,php,dart,go,mysql,postgres,mongodb,react,vue,express,nodejs,fastapi,nextjs,flutter,git,github,githubactions,azure,gcp,aws,nginx,docker,rabbitmq,kafka,linux,vscode,androidstudio,idea,webstorm,postman,powershell,appwrite,firebase,tensorflow,&theme=dark&perline=10" /></a>
 </p>
 <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/109px-Python-logo-notext.svg.png?20220821155029" alt="java" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" alt="JavaScript" /></a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="45" height="30"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongodb" width="40" height="40"/> </a> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt="expressjs" width="36" height="36"/> </a><a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="expressjs" width="36" height="36"/> </a><a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="40" height="45"/> </a><a href="https://httpd.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/128px-Apache_Feather_Logo.svg.png" alt="apache" width="40" height="40"/> </a><a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/> </a><a href="https://digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="40" height="40" alt="DigitalOcean" /></a><a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure" /></a><a href="https://www.ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://ipfs.tech/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="36" height="36" alt="IPFS" /></a>-->
 
@@ -72,7 +71,7 @@
 <img width=320 src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7i&layout=compact"  />
 
 <!-- github streak end -->
-  
+
 
 </div>
 
@@ -87,15 +86,11 @@
 
 <!-- github stats end -->
 
+## 👨‍💻 Coding Stats:
+
 <!-- wakatime weekly activity start -->
 
-<a href="https://wakatime.com/@ashutosh7i" title="Data update every midnight">
-
- <a href="https://monkeytype.com/profile/Ashutosh7i">
-   <img src="https://raw.githubusercontent.com/Ashutosh7i/Ashutosh7i/monkeytype-readme/mysvg.svg" alt="My Monkeytype profile" />
- </a>
- 
-</a>
+<a href="https://wakatime.com/@ashutosh7i" title="Data update every midnight"></a>
 
 <!-- wakatime weekly activity end -->
 
@@ -105,7 +100,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
@@ -113,7 +108,7 @@
 🌃 Evening                754 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
 🌙 Night                  418 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
 Monday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
@@ -126,7 +121,7 @@ Sunday                   246 commits         ███░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -150,7 +145,7 @@ fulfillment              36 mins             █░░░░░░░░░░�
 Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               37 repos            ███████░░░░░░░░░░░░░░░░░░   28.46 % 
@@ -168,16 +163,20 @@ Groovy                   3 repos             █░░░░░░░░░░�
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 -->
 </div>
- Profile Visitors: 
- 
- ![Visitors-](https://profile-counter.glitch.me/ashutosh7i/count.svg)
+
+## 🐒 Monkeytype Speed ⌨️:
+ <a href="https://monkeytype.com/profile/Ashutosh7i">
+   <img height="500"   src="https://raw.githubusercontent.com/Ashutosh7i/Ashutosh7i/monkeytype-readme/monkeytype-readme-pb.svg" alt="Ashutosh7i Monkeytype profile" />
+ </a>
+
+## 😃 Profile Visitors:
+
+![Visitors-](https://profile-counter.glitch.me/ashutosh7i/count.svg)
 
 ## 🏆 GitHub Trophies:
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)"/></p>
-
-<!--
-![](https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
--->
+ <div align="center">
+<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)"/></p>
+ </div>
 
 ## 🏆 Ashutosh7i's Holopin board:
  <div align="center">
@@ -188,12 +187,11 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
  <div align="center">
  <a href="https://www.credly.com/badges/6c097391-b1f1-4aee-bb6e-b2e34fcecf6b/public_url" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="147" width="100" alt="CCNACert" /></a>
 
-  <a href="https://api.badgr.io/public/assertions/KFOFKUKdRjeDb5HPcLQCZg" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/Postman_Canvas.png" height="147" width="450" alt="PostmanBadge"/></a>
+<a href="https://api.badgr.io/public/assertions/KFOFKUKdRjeDb5HPcLQCZg" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/Postman_Canvas.png" height="147" width="450" alt="PostmanBadge"/></a>
 
 <a href="https://learn.microsoft.com/en-us/training/achievements/course.az-900t00.badge?username=Ashutosh7i" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/AZ900_Microsoft.png"  height="147" width="180" alt="CCNACert" /></a>
 
 </div>
 -->
 
- </div>
  </div>
