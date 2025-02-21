@@ -83,18 +83,20 @@
 
 <!-- github stats start -->
 
-<!-- <img width=300 src="https://github-readme-stats.vercel.app/api?username=ashutosh7i&show_icons=true&locale=en&&hide_border=false&include_all_commits=false&count_private=true&layout=compact,#2c3333,clack,blue"  /> -->
+ <img width=300 src="https://github-readme-stats.vercel.app/api?username=ashutosh7i&show_icons=true&locale=en&&hide_border=false&include_all_commits=false&count_private=true&layout=compact,#2c3333,clack,blue"  />
 
 <!-- github stats end -->
 
 <!-- wakatime weekly activity start -->
-<!--
+
 <a href="https://wakatime.com/@ashutosh7i" title="Data update every midnight">
 
-<img width=330 src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=ashutosh7i&layout=compact&langs_count=7&border_color=gray&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
-
+ <a href="https://monkeytype.com/profile/Ashutosh7i">
+   <img src="https://raw.githubusercontent.com/Ashutosh7i/Ashutosh7i/monkeytype-readme/mysvg.svg" alt="My Monkeytype profile" />
+ </a>
+ 
 </a>
--->
+
 <!-- wakatime weekly activity end -->
 
 
