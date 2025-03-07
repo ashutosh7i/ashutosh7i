@@ -72,6 +72,11 @@
 
 <!-- github streak end -->
 
+<!-- github stats start -->
+
+ <img width=300 src="https://github-readme-stats.vercel.app/api?username=ashutosh7i&show_icons=true&locale=en&&hide_border=false&include_all_commits=false&count_private=true&layout=compact,#2c3333,clack,blue"  />
+
+<!-- github stats end -->
 
 </div>
 
@@ -79,12 +84,7 @@
 
 <div align="center">
 
-
-<!-- github stats start -->
-
- <img width=300 src="https://github-readme-stats.vercel.app/api?username=ashutosh7i&show_icons=true&locale=en&&hide_border=false&include_all_commits=false&count_private=true&layout=compact,#2c3333,clack,blue"  />
-
-<!-- github stats end -->
+<img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh7i&theme=merko"/>
 
 ## 👨‍💻 Coding Stats:
 
