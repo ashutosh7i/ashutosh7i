@@ -1,32 +1,90 @@
+<h1 align="center">Hey there 👋, I'm Aashutosh Soni 🚀</h1>
+<p align="center">
+  <b>Full Stack Engineer • SIH'24 Grand Winner 🏆 • Builder of Real-World Tech</b>  
+  <br />
+  <i>“Think doubt and fail. Think victory and succeed. 🔥”</i>
+</p>
 
+---
+
+## 🧠 About Me
+
+I'm a builder-first developer passionate about creating scalable systems with purpose.  
+From deploying an AI career toolkit used by 1000+ job seekers to architecting microservices for logistics and IoT-powered decentralized voting systems — I solve real-world problems using software, hardware, and creativity😉.
+
+- 🏆 **Smart India Hackathon 2024 Grand Winner**
+- 🥇 **7x Hackathon Champion** – WittyHacks, Techacks, Peerlist AI, JugaadHacks & more
+- 💼 **Former SWE @ Hotwax Commerce (US)** – Led migrations from legacy systems & optimized REST infra
+- 🧠 Founder of [Yuvaantar](https://yuvaantar.in) – Mentored 150+ students
+- 🌱 Self-taught coder who started from a 256MB Linux PC in 2019
+- 💬 Ask me about Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.
+
+---
+
+## 💻 Tech & 🛠️ Tools
+
+```ts
+Languages       → JavaScript · TypeScript · C++ · Go · Python · PHP · SQL
+Frontend        → Next.js · React.js · Vue.js · Flutter · Nuxt.js · Shadcn UI · Chakra UI
+Backend         → Node.js · Express.js · Fastify · FastAPI
+Databases       → PostgreSQL · MySQL · MongoDB · Redis
+Infra & DevOps  → Docker · GitHub Actions · Kafka · NGINX · Azure · GCP · AWS
+IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
+```
+<p align="center">
+  <a href="https://linkedin.com/in/ashutosh7i">
+   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,php,dart,go,mysql,postgres,mongodb,react,vue,express,nodejs,fastapi,nextjs,flutter,git,github,githubactions,azure,gcp,aws,nginx,docker,rabbitmq,kafka,linux,vscode,androidstudio,idea,webstorm,postman,powershell,appwrite,firebase,tensorflow,&theme=dark&perline=10" /></a>
+</p>
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**LumosCareer**](https://lumoscareer.co) | AI toolkit for job seekers (resume parser, JD match, LLM-based feedback) — used by 1000+ users | Next.js · FastAPI · Python · Gemini · Appwrite |
+| [**ReliGo**](https://ashutosh7i.dev) | Full-stack logistics platform with real-time tracking, dynamic pricing & vehicle-level microservices | Flutter · Go · Kafka · PostgreSQL · MongoDB · Redis · Azure |
+| [**VoteChain**](https://github.com/ashutosh7i/VoteChain) | Transparent, decentralized Aadhaar-based election system using RFID + Blockchain | ESP32 · Flow Blockchain · Aadhaar API · Next.js |
+| [**FarmIQ**](https://github.com/ashutosh7i/farmiq) | Smart crop recommendation platform using ML + i18n | React · Scikit-learn · Edge Compute · Vercel |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2024 Winner** – MargAI (OCR + STT + TTS-based inclusive assessment system)
+- 🏆 **WittyHacks 3.0** – IoT sewage monitoring & reporting system
+- 🥈 **Techacks 4.0** – IoT-based medical kiosk with medicine dispensing
+- 🥇 **Peerlist AI Hackathon** – LumosCareer.co (AI career platform)
+- 🥇 **JugaadHacks** – FarmIQ.co, ML crop prediction with i18n
+- 🥉 **HackThisFall 3.0** – VoteChain, Aadhaar + RFID elections
+- 🏅 **Botathon 2.0 & IoT 1.0** – Recognized for RPA and IoT prototypes
+
+---
+
+## 🤝 Community Work
+
+- 👨‍🏫 **Founder @ Yuvaantar**, a tech community impacting 150+ students through workshops & events
+- 🧭 **Microsoft Learn Student Ambassador (MLSA)** – hosted peer-learning sessions & coding events
+- 🏛️ **Volunteer Lead @ PBD & GIS 2023**, Smart City Indore – felicitated by State CM for contribution
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 Portfolio → [ashutosh7i.dev](https://ashutosh7i.dev)
+- 🔗 All Links → [links.ashutosh7i.dev](https://links.ashutosh7i.dev)
+- 🐦 Twitter → [@ashutosh7i](https://twitter.com/ashutosh7i)
+- 💼 LinkedIn → [linkedin.com/in/ashutosh7i](https://linkedin.com/in/ashutosh7i)
+- 📬 Email → `ashutoshsoni130@gmail.com`
+- 📹 YouTube → [youtube.com/@ashutosh7i](https://youtube.com/@ashutosh7i)
+
+---
+
+<p align="center">
+  <i>“Started from a dusty DOS-PC. Now building systems that ship.”</i><br>
+  <b>Thanks for stopping by ✨</b>
+</p>
 
 <div align="center">
-<div align="center">
-<img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/ifYouStoleThisIdeaThenItWillCurseYouLOL.gif" align="center" style="width: 100%" />
-</div>  
-<h1 align="center">Hi 👋, I'm Aashutosh <img src="https://github.com/ashutosh7i/ashutosh7i/blob/main/thisisnotadogegif.gif" height="37" ></h1>
-<h2 align="center">A passionate Full-Stack Software Engineer from India</h2>
-<h4 align="center">(> i code for fun 🤗<)</h4>
-
-🔭 I’m currently working on- **MERN🚀, DSA and Nextjs.**
-
-👨‍💻 Language Profiency - **JavaScript,TypeScript,PHP,C++.**
-
-🌱 I’m currently learning **Advance Fullstack Development🚀 & NextJs**
-
-👨‍💻 All of my projects are available at [Devfolio/@ashutosh7i](https://devfolio.co/@Ashutosh7i/)
-
-📝 My Youtube Channel [youtube.com/ashutosh7i](https://www.youtube.com/ashutosh7i)
-
-💬 Ask me about **Computers,IOT,Linux,Cloud,WebDev,Microcontrollers,Networking&Sarcasm.**
-
-📫 Reach me out- **work@ashutosh7i.dev**
-
-⚡  more- [links.ashutosh7i.dev](https://links.ashutosh7i.dev)
-
-🌐 My Portfolio [ashutosh7i.dev](https://ashutosh7i.dev)
-
-## 🌐 Connect with me:
+<h2> 🌐 Connect with me: </h2>
 <p align="centre">
 <a href="https://linkedin.com/in/ashutosh7i" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="ashutosh soni" height="50" width="50" /></a>
 <a href="https://devfolio.co/@ashutosh7i" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="ashutosh soni" height="35" width="35" /></a>                        
@@ -38,28 +96,11 @@
 <a href="https://replit.com/@Ashutosh7i" target="blank"><img align="center" src="https://replit.com/public/icons/apple-icon-180.png" alt="ashutoshsoni130" height="35" width="35" /></a>
  <a href="https://blog.ashutosh7i.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="ashutosh7i" height="35" width="35" /></a>
 <a href="https://twitter.com/ashutosh7i" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="ashutosh7i" height="35" width="35" /></a>
-
 </p>
-
-
-
-
-
-## 💻 Tech Stack:
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashutosh7i">
-   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,php,dart,go,mysql,postgres,mongodb,react,vue,express,nodejs,fastapi,nextjs,flutter,git,github,githubactions,azure,gcp,aws,nginx,docker,rabbitmq,kafka,linux,vscode,androidstudio,idea,webstorm,postman,powershell,appwrite,firebase,tensorflow,&theme=dark&perline=10" /></a>
-</p>
-<!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/109px-Python-logo-notext.svg.png?20220821155029" alt="java" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" alt="JavaScript" /></a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="45" height="30"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongodb" width="40" height="40"/> </a> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt="expressjs" width="36" height="36"/> </a><a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="expressjs" width="36" height="36"/> </a><a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="40" height="45"/> </a><a href="https://httpd.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/128px-Apache_Feather_Logo.svg.png" alt="apache" width="40" height="40"/> </a><a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/> </a><a href="https://digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="40" height="40" alt="DigitalOcean" /></a><a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure" /></a><a href="https://www.ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://ipfs.tech/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" width="36" height="36" alt="IPFS" /></a>-->
-
-## 💻 Skills:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)... and more😂
-
-## 📊 GitHub Stats:
+ </div>
 
  <div align="center">
-
+<h2> 📊 GitHub Stats: </h2>
 <!-- github most used lang -->
 
 <img width=230 src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh7i&show_icons=true&locale=en&layout=compact" alt="montasim" />
@@ -86,7 +127,7 @@
 
 <img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh7i&theme=merko"/>
 
-## 👨‍💻 Coding Stats:
+<h2>👨‍💻 Coding Stats:</h2>
 
 <!-- wakatime weekly activity start -->
 
@@ -103,21 +144,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-🌆 Daytime                1515 commits        █████████░░░░░░░░░░░░░░░░   35.87 % 
-🌃 Evening                1514 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌙 Night                  450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌞 Morning                723 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+🌆 Daytime                1479 commits        █████████░░░░░░░░░░░░░░░░   35.74 % 
+🌃 Evening                1487 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
+🌙 Night                  449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Tuesday                  751 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Wednesday                602 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Thursday                 549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Friday                   886 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Saturday                 421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Monday                   737 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Tuesday                  730 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Thursday                 544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Friday                   868 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Sunday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 
 
@@ -125,24 +166,24 @@ Sunday                   256 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     11 hrs 1 min        ███████████████░░░░░░░░░░   61.51 % 
-Python                   5 hrs               ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Dart                     11 hrs 1 min        ███████████████░░░░░░░░░░   61.85 % 
+Python                   5 hrs               ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FinAvengers              6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-hackOrbit                3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-mishfinquest             3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-newfinquest              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-flutter_jwt              1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+FinAvengers              6 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
+hackOrbit                3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+mishfinquest             3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+newfinquest              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+flutter_jwt              1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 💻 Operating System: 
-Windows                  17 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,25 +197,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-
-
 <!--END_SECTION:waka-->
 <!--
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 -->
 </div>
 
-## 🐒 Monkeytype Speed ⌨️:
+<div align="center">
+<h2> 🐒 Monkeytype Speed ⌨️:  <h2/>
  <a href="https://monkeytype.com/profile/Ashutosh7i">
    <img height="500"   src="https://raw.githubusercontent.com/Ashutosh7i/Ashutosh7i/monkeytype-readme/monkeytype-readme-pb.svg" alt="Ashutosh7i Monkeytype profile" />
  </a>
 
-## 😃 Profile Visitors:
-
-![Visitors-](https://profile-counter.glitch.me/ashutosh7i/count.svg)
-
 ## 🏆 GitHub Trophies:
- <div align="center">
+<div align="center">
 <p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ashutosh7i&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Stars&theme=monokai&no-frame=false&no-bg=false&margin-w=4)"/></p>
  </div>
 
@@ -182,16 +218,6 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
  <div align="center">
 <p><img align="center" src="https://holopin.io/api/user/board?user=ashutosh7i" alt="ashutosh7i" /></p>
  </div>
-<!--
-## 🚀 Badges :
- <div align="center">
- <a href="https://www.credly.com/badges/6c097391-b1f1-4aee-bb6e-b2e34fcecf6b/public_url" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/CCNA_Credly.png"  height="147" width="100" alt="CCNACert" /></a>
-
-<a href="https://api.badgr.io/public/assertions/KFOFKUKdRjeDb5HPcLQCZg" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/Postman_Canvas.png" height="147" width="450" alt="PostmanBadge"/></a>
-
-<a href="https://learn.microsoft.com/en-us/training/achievements/course.az-900t00.badge?username=Ashutosh7i" target="_blank" rel="noreferrer"><img align="left" src="https://github.com/ashutosh7i/ashutosh7i/blob/main/AZ900_Microsoft.png"  height="147" width="180" alt="CCNACert" /></a>
-
-</div>
--->
+ </div>
 
  </div>
