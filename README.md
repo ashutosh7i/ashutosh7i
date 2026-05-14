@@ -137,54 +137,9 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.86%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1622 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-🌆 Daytime                3126 commits        ██████████░░░░░░░░░░░░░░░   39.09 % 
-🌃 Evening                2717 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  532 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1573 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Tuesday                  1570 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Wednesday                1200 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Thursday                 876 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Friday                   1935 commits        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Saturday                 562 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Sunday                   281 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 23 mins       ███████████████░░░░░░░░░░   59.70 % 
-Bash                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Other                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-
-🔥 Editors: 
-Cursor                   10 hrs 41 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-swz-backend-server       4 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
-swz-mobile-crossplatform 3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
-swz_web_v2               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-hello-cdk                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-terminals                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-
-💻 Operating System: 
-Windows                  10 hrs 41 mins      █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
