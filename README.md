@@ -141,6 +141,53 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.44%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+🌆 Daytime                751 commits         ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌃 Evening                886 commits         █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌙 Night                  524 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Tuesday                  397 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Wednesday                415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Friday                   351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 388 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Sunday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               20 hrs 36 mins      ██████████████████░░░░░░░   70.66 % 
+JSON                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Python                   2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Bash                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 16 mins      █████████████████░░░░░░░░   69.56 % 
+Cursor                   8 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
+
+🐱‍💻 Projects: 
+swz-mobile-crossplatform 21 hrs 39 mins      ███████████████████░░░░░░   74.30 % 
+swz-pipecat-server       3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+swz-backend-server       1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Unknown Project          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+terminals                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+
+💻 Operating System: 
+Mac                      28 hrs 36 mins      █████████████████████████   98.13 % 
+Windows                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
