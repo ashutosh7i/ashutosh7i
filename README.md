@@ -137,28 +137,28 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-🌆 Daytime                990 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌃 Evening                961 commits         ████████░░░░░░░░░░░░░░░░░   33.36 % 
-🌙 Night                  545 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌞 Morning                385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+🌆 Daytime                990 commits         █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌃 Evening                961 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Tuesday                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                484 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Friday                   434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Saturday                 399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Tuesday                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Wednesday                484 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Friday                   434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Saturday                 399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 ```
 
 
@@ -166,26 +166,26 @@ Sunday                   274 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.87 % 
-Other                    6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.19 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    7 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
+TypeScript               7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.54 % 
+Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 15 mins      ████████████████████████░   96.70 % 
-Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Cursor                   18 hrs 31 mins      █████████████████████████   99.86 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-SpeakWithZubi            8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.63 % 
-swz-mobile-crossplatform 6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.55 % 
-swz-backend-server       1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-swz-aws-infra            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-swz_web_v2               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+SpeakWithZubi            8 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.93 % 
+swz-mobile-crossplatform 6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
+swz-backend-server       1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+swz-aws-infra            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+swz_web_v2               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Mac                      18 hrs 47 mins      █████████████████████████   99.58 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Mac                      18 hrs 28 mins      █████████████████████████   99.57 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 **I Mostly Code in JavaScript** 
