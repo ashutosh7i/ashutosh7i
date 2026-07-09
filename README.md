@@ -166,26 +166,26 @@ Sunday                   274 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
-TypeScript               7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-SQL                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.93 % 
+TypeScript               8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
+Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Prisma                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 2 mins       █████████████████████████   99.88 % 
+Cursor                   21 hrs 24 mins      █████████████████████████   99.88 % 
 Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-SpeakWithZubi            9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
-swz-mobile-crossplatform 6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-swz-backend-server       3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-swz-aws-infra            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-swz_web_v2               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+SpeakWithZubi            9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
+swz-mobile-crossplatform 7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
+swz-backend-server       2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+swz-aws-infra            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+swz_web_v2               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Mac                      20 hrs 59 mins      █████████████████████████   99.62 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Mac                      21 hrs 21 mins      █████████████████████████   99.63 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
