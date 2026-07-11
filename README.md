@@ -144,21 +144,21 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-🌆 Daytime                992 commits         █████████░░░░░░░░░░░░░░░░   34.37 % 
-🌃 Evening                961 commits         ████████░░░░░░░░░░░░░░░░░   33.30 % 
-🌙 Night                  547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌞 Morning                386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                992 commits         █████████░░░░░░░░░░░░░░░░   34.43 % 
+🌃 Evening                960 commits         ████████░░░░░░░░░░░░░░░░░   33.32 % 
+🌙 Night                  543 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Tuesday                  464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Friday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Saturday                 399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Monday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Tuesday                  464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Wednesday                485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 515 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Friday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Saturday                 399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
 
@@ -166,26 +166,24 @@ Sunday                   274 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-Other                    7 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.89 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TypeScript               8 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.78 % 
+Other                    6 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.37 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Prisma                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-Cursor                   20 hrs 4 mins       █████████████████████████   99.87 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Cursor                   17 hrs              █████████████████████████   99.85 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
-SpeakWithZubi            8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.68 % 
-swz-backend-server       2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-swz_web_v2               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-link-shortener           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+SpeakWithZubi            6 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
+swz-mobile-crossplatform 6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
+swz-backend-server       2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+swz_web_v2               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Mac                      20 hrs 1 min        █████████████████████████   99.60 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Mac                      17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
