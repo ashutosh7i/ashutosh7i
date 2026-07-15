@@ -137,7 +137,7 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C627%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -166,24 +166,24 @@ Sunday                   275 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 58 mins       █████████████░░░░░░░░░░░░   51.40 % 
-Other                    4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Bash                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               10 hrs 47 mins      ███████████████░░░░░░░░░░   59.44 % 
+Other                    3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Bash                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 27 mins      █████████████████████████   100.00 % 
+Cursor                   18 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 7 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-SpeakWithZubi            6 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.09 % 
-swz-backend-server       2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-swz-internal-dashboard   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-references               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+swz-mobile-crossplatform 7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.56 % 
+SpeakWithZubi            5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+swz-backend-server       2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+swz-internal-dashboard   2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+references               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
