@@ -144,20 +144,20 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌆 Daytime                994 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌃 Evening                961 commits         ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌞 Morning                390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+🌆 Daytime                994 commits         █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌃 Evening                961 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
 🌙 Night                  550 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Monday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 Tuesday                  464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Wednesday                487 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 516 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                487 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Thursday                 516 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 Friday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Saturday                 399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 Sunday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 ```
 
@@ -166,25 +166,26 @@ Sunday                   275 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.69 % 
-Other                    4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Bash                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+TypeScript               10 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.28 % 
+Other                    4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Bash                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 30 mins      █████████████████████████   98.43 % 
-VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Cursor                   21 hrs 51 mins      █████████████████████████   98.33 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
-SpeakWithZubi            6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
-swz-backend-server       4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-swz-internal-dashboard   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-ash-rn                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+swz-mobile-crossplatform 7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
+SpeakWithZubi            7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
+swz-backend-server       3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+swz-internal-dashboard   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+ash-rn                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Mac                      21 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
