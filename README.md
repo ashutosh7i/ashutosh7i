@@ -137,7 +137,7 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C640%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -166,26 +166,26 @@ Sunday                   275 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.28 % 
-Other                    4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Bash                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               12 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.49 % 
+Other                    6 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Bash                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Prisma                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 51 mins      █████████████████████████   98.33 % 
-VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Cursor                   25 hrs 28 mins      █████████████████████████   98.56 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-SpeakWithZubi            7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-swz-backend-server       3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-swz-internal-dashboard   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-ash-rn                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+swz-mobile-crossplatform 9 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
+SpeakWithZubi            8 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+swz-backend-server       4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+swz-internal-dashboard   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+ash-rn                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      22 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
