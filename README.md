@@ -137,7 +137,9 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C666%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-440%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -184,6 +186,28 @@ swz-aws-infra            56 mins             █░░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      18 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 22 mins (86.76%)
+
+✍️ 7,389 lines written by AI, 19 lines written by hand (99.74% AI-written)
+
+🔤 195,657,769 Input Tokens, 770,113 Output Tokens
+
+💵 $635.91 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 217 AI Prompts
+
+GPT                      8,245 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 2,787 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
