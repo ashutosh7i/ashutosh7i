@@ -137,9 +137,9 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C608%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C608%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-452%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-452%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -168,47 +168,48 @@ Sunday                   278 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Markdown                 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Bash                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Python                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+TypeScript               3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Markdown                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Bash                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Python                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 33 mins      █████████████████████████   99.79 % 
+Cursor                   12 hrs 14 mins      ████████████████████████░   97.69 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-swz-backend-server       4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
-SpeakWithZubi            4 hrs               ████████░░░░░░░░░░░░░░░░░   31.81 % 
-swz-internal-dashboard   1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-swz-pipecat-server       1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-swz-aws-infra            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+swz-backend-server       4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
+SpeakWithZubi            3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+swz-internal-dashboard   1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+swz-pipecat-server       1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+swz-aws-infra            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Operating System: 
-Mac                      12 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs (95.5%)
+⏱ AI Coding Time: 11 hrs 57 mins (95.48%)
 
-✍️ 15,046 lines written by AI, 29 lines written by hand (99.81% AI-written)
+✍️ 15,370 lines written by AI, 29 lines written by hand (99.81% AI-written)
 
-🔤 119,090,998 Input Tokens, 445,741 Output Tokens
+🔤 118,819,324 Input Tokens, 450,000 Output Tokens
 
-💵 $591.52 Estimated AI Cost This Week
+💵 $592.32 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 127 AI Prompts
+🧠 16 AI Sessions, 118 AI Prompts
 
-GPT                      15,695 lines        █████████████████████████   100.00 % 
+GPT                      16,019 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 12,435 characters per prompt
+📚 Verbose Prompter — average 13,361 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
