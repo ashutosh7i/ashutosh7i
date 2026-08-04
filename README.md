@@ -137,9 +137,9 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C608%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C614%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-452%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-458%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -168,48 +168,47 @@ Sunday                   278 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Markdown                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Bash                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Python                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+TypeScript               2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Other                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Bash                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 14 mins      ████████████████████████░   97.69 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Cursor                   8 hrs 18 mins       ████████████████████████░   96.93 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🐱‍💻 Projects: 
-swz-backend-server       4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
-SpeakWithZubi            3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-swz-internal-dashboard   1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-swz-pipecat-server       1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-swz-aws-infra            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+swz-backend-server       2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+SpeakWithZubi            2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+swz-internal-dashboard   1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+swz-pipecat-server       1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+swz-aws-infra            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 💻 Operating System: 
-Mac                      12 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 57 mins (95.48%)
+⏱ AI Coding Time: 8 hrs 9 mins (95.02%)
 
-✍️ 15,370 lines written by AI, 29 lines written by hand (99.81% AI-written)
+✍️ 10,888 lines written by AI, 25 lines written by hand (99.77% AI-written)
 
-🔤 118,819,324 Input Tokens, 450,000 Output Tokens
+🔤 82,737,009 Input Tokens, 308,269 Output Tokens
 
-💵 $592.32 Estimated AI Cost This Week
+💵 $414.17 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 118 AI Prompts
+🧠 11 AI Sessions, 81 AI Prompts
 
-GPT                      16,019 lines        █████████████████████████   100.00 % 
+GPT                      11,525 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 13,361 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📚 Verbose Prompter — average 18,803 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.28% of changed lines were hand-edited
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
