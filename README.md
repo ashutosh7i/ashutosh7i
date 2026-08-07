@@ -143,6 +143,74 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.13%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌆 Daytime                1144 commits        █████████░░░░░░░░░░░░░░░░   36.27 % 
+🌃 Evening                1004 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌙 Night                  570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  506 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                539 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Thursday                 564 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Friday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Sunday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.67 % 
+Other                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+
+🔥 Editors: 
+Cursor                   7 hrs 8 mins        ███████████████████████░░   92.76 % 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+
+🐱‍💻 Projects: 
+swz-mobile-crossplatform 4 hrs 21 mins       ██████████████░░░░░░░░░░░   56.73 % 
+SpeakWithZubi            1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+swz-aws-infra            33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+swz-backend-server       32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+swz-pipecat-server       29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+
+💻 Operating System: 
+Mac                      7 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 23 mins (96.06%)
+
+✍️ 6,881 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 122,892,288 Input Tokens, 375,604 Output Tokens
+
+💵 $360.41 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 83 AI Prompts
+
+GPT                      7,361 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 3,195 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
