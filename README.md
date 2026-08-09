@@ -146,21 +146,21 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-🌆 Daytime                1144 commits        █████████░░░░░░░░░░░░░░░░   36.27 % 
-🌃 Evening                1004 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
-🌙 Night                  570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌞 Morning                436 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+🌆 Daytime                1144 commits        █████████░░░░░░░░░░░░░░░░   36.20 % 
+🌃 Evening                1004 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌙 Night                  576 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  506 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                539 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Thursday                 564 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Friday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Sunday                   278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Monday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Tuesday                  506 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                539 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Thursday                 564 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Friday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Sunday                   284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 
 
@@ -168,57 +168,56 @@ Sunday                   278 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.07 % 
-Other                    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Python                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+TypeScript               5 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.18 % 
+Other                    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Python                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 58 mins      ████████████████████████░   97.65 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Cursor                   10 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 5 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.20 % 
-SpeakWithZubi            2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-swz-pipecat-server       1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-swz-aws-infra            47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-swz-backend-server       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+swz-mobile-crossplatform 5 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.33 % 
+SpeakWithZubi            2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+swz-pipecat-server       1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+swz-backend-server       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+swz-aws-infra            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 29 mins (93.36%)
+⏱ AI Coding Time: 10 hrs 13 mins (93.2%)
 
-✍️ 9,992 lines written by AI, 13 lines written by hand (99.87% AI-written)
+✍️ 9,668 lines written by AI, 13 lines written by hand (99.87% AI-written)
 
-🔤 185,652,589 Input Tokens, 620,190 Output Tokens
+🔤 184,595,454 Input Tokens, 611,294 Output Tokens
 
-💵 $587.33 Estimated AI Cost This Week
+💵 $584.55 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 128 AI Prompts
+🧠 15 AI Sessions, 126 AI Prompts
 
-GPT                      10,567 lines        █████████████████████████   100.00 % 
+GPT                      10,243 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 4,965 characters per prompt
+📚 Verbose Prompter — average 5,032 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               37 repos            ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-HTML                     30 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Dart                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               37 repos            █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Dart                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
