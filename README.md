@@ -137,30 +137,30 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C660%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-510%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-516%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                514 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 Daytime                1386 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                1096 commits        ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌙 Night                  622 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+🌞 Morning                515 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                1393 commits        ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌃 Evening                1096 commits        ████████░░░░░░░░░░░░░░░░░   30.21 % 
+🌙 Night                  624 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Tuesday                  592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Wednesday                615 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 653 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Friday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Sunday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Monday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Tuesday                  592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Wednesday                615 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 655 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Friday                   586 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Sunday                   288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 
 
@@ -168,49 +168,49 @@ Sunday                   288 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.03 % 
-Markdown                 4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Text                     4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-JavaScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+TypeScript               15 hrs 36 mins      ███████████░░░░░░░░░░░░░░   45.18 % 
+Markdown                 5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Text                     5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Bash                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+JavaScript               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 40 mins      ███████████████░░░░░░░░░░   60.89 % 
-Agent                    12 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.11 % 
+Cursor                   20 hrs 8 mins       ███████████████░░░░░░░░░░   58.31 % 
+Agent                    14 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   41.69 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 16 hrs 32 mins      █████████████░░░░░░░░░░░░   51.23 % 
-SpeakWithZubi            8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-swz-backend-server       2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-swz-aws-infra            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+swz-mobile-crossplatform 17 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.40 % 
+SpeakWithZubi            10 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.56 % 
+swz-backend-server       2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+swz-aws-infra            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+swz-internal-dashboard   40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Mac                      32 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 46 mins (98.39%)
+⏱ AI Coding Time: 33 hrs 42 mins (97.56%)
 
-✍️ 29,986 lines written by AI, 43 lines written by hand (99.86% AI-written)
+✍️ 45,524 lines written by AI, 316 lines written by hand (99.31% AI-written)
 
-🔤 4,151,205 Input Tokens, 4,151,205 Output Tokens
+🔤 7,145,057 Input Tokens, 7,145,057 Output Tokens
 
-💵 $79.26 Estimated AI Cost This Week
+💵 $128.61 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 836 AI Prompts
+🧠 82 AI Sessions, 855 AI Prompts
 
-Grok                     20,015 lines        █████████████████████████   99.10 % 
-GPT                      182 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Grok                     21,888 lines        █████████████████████████   98.07 % 
+Sonnet                   430 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 20,032 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.91% of changed lines were hand-edited
+🤖 AI-Driven — 99.31% of written lines came from AI
+📚 Verbose Prompter — average 33,587 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 1.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
