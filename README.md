@@ -168,49 +168,49 @@ Sunday                   296 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 17 mins      █████████████░░░░░░░░░░░░   52.18 % 
-Markdown                 6 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Text                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Bash                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               19 hrs 58 mins      █████████████░░░░░░░░░░░░   52.52 % 
+Markdown                 6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Text                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Bash                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 25 mins      ██████████████░░░░░░░░░░░   57.93 % 
-Agent                    15 hrs 33 mins      ███████████░░░░░░░░░░░░░░   42.07 % 
+Cursor                   22 hrs 3 mins       ██████████████░░░░░░░░░░░   57.98 % 
+Agent                    15 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.02 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 19 hrs 21 mins      █████████████░░░░░░░░░░░░   52.37 % 
-SpeakWithZubi            10 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-swz-backend-server       3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-swz-pipecat-server       1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Unknown Project          42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+swz-mobile-crossplatform 20 hrs 1 min        █████████████░░░░░░░░░░░░   52.66 % 
+SpeakWithZubi            10 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+swz-backend-server       3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+swz-pipecat-server       1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Unknown Project          42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Mac                      36 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 7 mins (97.7%)
+⏱ AI Coding Time: 37 hrs 10 mins (97.76%)
 
-✍️ 54,865 lines written by AI, 337 lines written by hand (99.39% AI-written)
+✍️ 56,344 lines written by AI, 337 lines written by hand (99.41% AI-written)
 
-🔤 5,960,626 Input Tokens, 5,960,626 Output Tokens
+🔤 5,982,729 Input Tokens, 5,982,729 Output Tokens
 
-💵 $107.29 Estimated AI Cost This Week
+💵 $107.69 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 893 AI Prompts
+🧠 78 AI Sessions, 914 AI Prompts
 
-Grok                     28,149 lines        █████████████████████████   98.50 % 
-Sonnet                   430 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Grok                     28,370 lines        █████████████████████████   98.51 % 
+Sonnet                   430 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📚 Verbose Prompter — average 26,846 characters per prompt
+🤖 AI-Driven — 99.41% of written lines came from AI
+📚 Verbose Prompter — average 26,329 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.03% of changed lines were hand-edited
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
