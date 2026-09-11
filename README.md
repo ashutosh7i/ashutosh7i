@@ -168,51 +168,52 @@ Sunday                   297 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 57 mins      ███████████████░░░░░░░░░░   58.06 % 
-Other                    6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               16 hrs 57 mins      ██████████████░░░░░░░░░░░   56.84 % 
+Other                    7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 16 mins      ███████████░░░░░░░░░░░░░░   43.73 % 
-Cursor                   11 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   34.79 % 
-Agent                    7 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Codex Vscode             15 hrs 39 mins      █████████████░░░░░░░░░░░░   52.49 % 
+Agent                    7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Cursor                   6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-swz-mobile-crossplatform 17 hrs 24 mins      █████████████░░░░░░░░░░░░   53.30 % 
-SpeakWithZubi            8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-swz-backend-server       3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Social Media Automator   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Unknown Project          33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+swz-mobile-crossplatform 13 hrs 13 mins      ███████████░░░░░░░░░░░░░░   44.32 % 
+SpeakWithZubi            9 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
+swz-backend-server       3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Social Media Automator   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Unknown Project          28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      32 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 17 mins (98.85%)
+⏱ AI Coding Time: 29 hrs 28 mins (98.79%)
 
-✍️ 33,914 lines written by AI, 5 lines written by hand (99.99% AI-written)
+✍️ 17,760 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 18,998,206 Input Tokens, 3,237,802 Output Tokens
+🔤 18,598,997 Input Tokens, 2,776,562 Output Tokens
 
-💵 $215.43 Estimated AI Cost This Week
+💵 $206.70 Estimated AI Cost This Week
 
-🧠 177 AI Sessions, 747 AI Prompts
+🧠 90 AI Sessions, 598 AI Prompts
 
-GPT                      14,881 lines        ████████████████████░░░░░   78.59 % 
-Grok                     4,055 lines         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+GPT                      14,860 lines        ██████████████████████░░░   86.43 % 
+Grok                     2,334 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 14,238 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 13,923 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
