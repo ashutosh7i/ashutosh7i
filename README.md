@@ -168,50 +168,49 @@ Sunday                   297 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
-TypeScript               4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Markdown                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Bash                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    4 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.99 % 
+Markdown                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+TypeScript               1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.93 % 
-Codex Vscode             4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
-Agent                    4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Codex Vscode             4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
+Agent                    2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Cursor                   2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
 
 🐱‍💻 Projects: 
-SpeakWithZubi            7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.64 % 
-swz-mobile-crossplatform 3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-ignite-room-hack         1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-swz-backend-server       1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+SpeakWithZubi            6 hrs 17 mins       █████████████████░░░░░░░░   66.65 % 
+swz-mobile-crossplatform 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+swz-backend-server       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+swz_web_v2               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+swz-aws-infra            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Mac                      14 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 52 mins (96.66%)
+⏱ AI Coding Time: 9 hrs 7 mins (96.53%)
 
-✍️ 6,702 lines written by AI, 20 lines written by hand (99.7% AI-written)
+✍️ 1,955 lines written by AI, 10 lines written by hand (99.49% AI-written)
 
-🔤 74,524,415 Input Tokens, 4,117,130 Output Tokens
+🔤 5,765,630 Input Tokens, 546,674 Output Tokens
 
-💵 $747.43 Estimated AI Cost This Week
+💵 $18.43 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 445 AI Prompts
+🧠 40 AI Sessions, 322 AI Prompts
 
-Composer                 3,281 lines         ███████████░░░░░░░░░░░░░░   43.96 % 
-GPT                      2,950 lines         ██████████░░░░░░░░░░░░░░░   39.52 % 
-Grok                     1,233 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+GPT                      1,884 lines         ███████████████████████░░   91.41 % 
+Composer                 177 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📚 Verbose Prompter — average 9,849 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🤖 AI-Driven — 99.49% of written lines came from AI
+📚 Verbose Prompter — average 9,536 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
