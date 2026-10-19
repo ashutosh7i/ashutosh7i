@@ -137,82 +137,11 @@ IoT / Hardware  → ESP32 · MQTT · RFID/NFC · OpenCV · Sensors · Barcode/QR
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C794%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-698%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-701%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.23%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                635 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌆 Daytime                1805 commits        ██████████░░░░░░░░░░░░░░░   40.94 % 
-🌃 Evening                1256 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-🌙 Night                  713 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Tuesday                  745 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Wednesday                721 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Thursday                 794 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Friday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Saturday                 521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Sunday                   299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 59 mins       █████████████░░░░░░░░░░░░   50.78 % 
-Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-JSON                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-
-🔥 Editors: 
-Codex Vscode             9 hrs 10 mins       ███████████████████░░░░░░   77.83 % 
-Cursor                   2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Agent                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🐱‍💻 Projects: 
-swz-mobile-crossplatform 8 hrs 4 mins        █████████████████░░░░░░░░   68.53 % 
-SpeakWithZubi            3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-swz-website              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-swz-aws-infra            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-💻 Operating System: 
-Mac                      11 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 28 mins (97.4%)
-
-✍️ 5,788 lines written by AI, 11 lines written by hand (99.81% AI-written)
-
-🔤 8,084,427 Input Tokens, 1,088,430 Output Tokens
-
-💵 $4.20 Estimated AI Cost This Week
-
-🧠 33 AI Sessions, 144 AI Prompts
-
-GPT                      4,345 lines         █████████████████████░░░░   84.17 % 
-Cursor                   817 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 1,640 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
-```
 
 **I Mostly Code in JavaScript** 
 
